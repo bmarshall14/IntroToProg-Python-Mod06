@@ -1,0 +1,3 @@
+Pay Bills,High
+Make the bed,low
+Make dinner,Medium
